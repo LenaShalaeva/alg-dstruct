@@ -1,0 +1,7 @@
+abc
+banana
+create
+destroy
+force
+realloc
+word
